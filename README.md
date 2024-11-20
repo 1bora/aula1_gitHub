@@ -1,4 +1,4 @@
-:# aula1_gitHub:
+# :aula1_gitHub:
 :Repositório para primeira aula de GitHub.:
 
 <div align="center"><img controls autoplay src="./1739591070.gif" 
