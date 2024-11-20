@@ -1,4 +1,8 @@
 #aula1_gitHub
+
+<div style="text-align: center;">
+Este texto está centralizado!
+</div>
 Repositório para primeira aula de GitHub
 
 
