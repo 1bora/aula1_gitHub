@@ -2,6 +2,5 @@
 Repositório para primeira aula de GitHub.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="./1739591070.gif" 
-alt="" width="240" height="180" border="10" /></a>
+<a href="" target="_blank"><img src="./1739591070.gif" 
+alt="" width="200" height="200" border="10" /></a>
