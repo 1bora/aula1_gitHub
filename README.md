@@ -1,4 +1,4 @@
-# <center>aula1_gitHub</center>
+# <center> aula1_gitHub </center>
 <center>Repositório para primeira aula de GitHub.</center>
 
 <div align="center"><img controls autoplay src="./1739591070.gif" 
