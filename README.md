@@ -1,7 +1,5 @@
-#aula1_gitHub
-
 <p align="center">
-Este texto está centralizado!
+# aula1_gitHub
 </p>
 Repositório para primeira aula de GitHub
 
