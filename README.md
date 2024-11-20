@@ -1,9 +1,7 @@
-# <p align="center"> aula1_gitHub</p>
+# <p align="center"> aula1_gitHub </p>
 
 
-
-
-Repositório para primeira aula de GitHub
+## <p align="center"> Repositório para primeira aula de GitHub </p>
 
 
 
